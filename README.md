@@ -1,4 +1,4 @@
-Simple Roblox Checker for Censored Words, + discord wwebhook sender 
+Simple Roblox Checker for Censored Words, + discord webhook sender 
 
 Based on @yulus checker code.
 
